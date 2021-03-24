@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\bin\Debug\Ej19_SumaSerie1-N.exe.config
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\bin\Debug\Ej19_SumaSerie1-N.exe
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\bin\Debug\Ej19_SumaSerie1-N.pdb
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1-N.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1_N.Form1.resources
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1_N.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1-N.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1-N.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1-N.exe
+C:\Users\jared\source\repos\Ej19_SumaSerie1-N\Ej19_SumaSerie1-N\obj\Debug\Ej19_SumaSerie1-N.pdb
